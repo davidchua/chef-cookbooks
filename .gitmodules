@@ -1,0 +1,6 @@
+[submodule "logwatch"]
+	path = logwatch
+	url = https://github.com/opscode-cookbooks/logwatch.git
+[submodule "perl"]
+	path = perl
+	url = https://github.com/opscode-cookbooks/perl

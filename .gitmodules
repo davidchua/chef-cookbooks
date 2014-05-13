@@ -4,3 +4,6 @@
 [submodule "perl"]
 	path = perl
 	url = https://github.com/opscode-cookbooks/perl
+[submodule "chef-mariadb"]
+	path = chef-mariadb
+	url = https://github.com/joerocklin/chef-mariadb.git

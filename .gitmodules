@@ -7,3 +7,6 @@
 [submodule "chef-mariadb"]
 	path = chef-mariadb
 	url = https://github.com/joerocklin/chef-mariadb.git
+[submodule "cookbook-rotate-to-s3"]
+	path = cookbook-rotate-to-s3
+	url = https://github.com/dialt0ne/cookbook-rotate-to-s3

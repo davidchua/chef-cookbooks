@@ -10,3 +10,6 @@
 [submodule "cookbook-rotate-to-s3"]
 	path = cookbook-rotate-to-s3
 	url = https://github.com/dialt0ne/cookbook-rotate-to-s3
+[submodule "chef-s3cmd"]
+	path = chef-s3cmd
+	url = git@github.com:fred/chef-s3cmd.git
